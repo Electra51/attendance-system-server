@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "Date": "11/7/16",
+        "Employee_Name": "Arlene McCoy",
+        "Status": "Present"
+    },
+    {
+        "id": "02",
+        "Date": "2/11/12",
+        "Employee_Name": "Eleanor Pena",
+        "Status": "Absent"
+    },
+    {
+        "id": "03",
+        "Date": "4/21/12",
+        "Employee_Name": "Wade Warren",
+        "Status": "Present"
+    },
+    {
+        "id": "04",
+        "Date": "8/15/17",
+        "Employee_Name": " Jacob Jones",
+        "Status": "Absent"
+    },
+    {
+        "id": "05",
+        "Date": "6/19/14",
+        "Employee_Name": "Darlene Robertson",
+        "Status": "Present"
+    },
+    {
+        "id": "06",
+        "Date": "6/21/19",
+        "Employee_Name": "Floyd Miles",
+        "Status": "Absent"
+    },
+    {
+        "id": "07",
+        "Date": "5/19/12",
+        "Employee_Name": "Ralph Edwards",
+        "Status": "Present"
+    },
+    {
+        "id": "08",
+        "Date": "5/7/16",
+        "Employee_Name": "Leslie Alexander",
+        "Status": "Present"
+    }
+]
